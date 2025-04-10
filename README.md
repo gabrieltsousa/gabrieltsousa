@@ -1,18 +1,16 @@
-<h1 align="center">Gabriel Teixeira</h1>
+## 👋 Bem-vindo, é um prazer recebê-lo! Eu sou Gabriel Teixeira.
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gabrieltsousa" alt="Visitantes no perfil" />
-</p>
+### 👨‍💻 Sobre mim
 
-<p align="center">
-  Desenvolvedor Front-end com foco em interfaces modernas, arquitetura escalável e código limpo.
-</p>
+- 💼 Desenvolvedor Front-End com 4 anos de experiência
+- 🚀 Trabalho com Vue.js, React, Next.js, Astro, Node.js, Tailwind, Bootstrap, SSR/SPA/SSG
+- 🎯 Já atuei em projetos white-label, com foco em identidade visual e prazo apertado
+- 🧩 Atualmente desenvolvendo o framework **Neon.js**, um full-stack voltado pra produtividade
 
 ---
 
-### 🚀 Tecnologias
-
-<p align="center">
+### 🛠️ Tecnologias e Ferramentas
+<p>
   <!-- Linguagens -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
@@ -44,20 +42,28 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📌 Projetos em destaque
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gabrieltsousa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" /></p>
+- 🎰 [SorteSorte.com.br](https://www.sortesorte.com.br) — Plataforma de apostas lotéricas com identidade visual e integração de APIs
+- ⚙️ Neon.js — Framework full-stack com SSR automático e banco de dados embutido
+- 💼 Portfólio (em desenvolvimento) com Next.js, Framer Motion e Tailwind
 
 ---
 
-### 📫 Onde me encontrar
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="mailto:gaabriel.sousa@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/gabriel-teixeira-frontend/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://seuportfolio.com" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/gabrieltex">
+    <img src="https://github-readme-stats.vercel.app/api?username=gabrieltex&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/gabrieltex">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltex&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  </a>
 </p>
 
 ---
 
-<p align="center"><i>“Código limpo é como poesia: simples, elegante e direto.”</i></p>
+### 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/gabrieltex/)
+- [GitHub](https://github.com/gabrieltex)
