@@ -1,52 +1,51 @@
-<h1 align="center">Olá, eu sou o Gabriel Teixeira!</h1>
+<h1 align="center">Gabriel Teixeira</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Front-end+Developer;Vue.js+%7C+React+%7C+TypeScript+Lover;Clean+Code+%E2%9C%94%EF%B8%8F+Scalable+Architecture+%F0%9F%94%A1+UI%2FUX" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=gabrieltsousa" alt="Visitantes no perfil" />
 </p>
 
-Sou desenvolvedor front-end com foco em aplicações modernas e performáticas. Tenho experiência com Vue.js, React, TypeScript e gosto de criar interfaces bem estruturadas, escaláveis e com ótima usabilidade.
+<p align="center">
+  Desenvolvedor Front-end apaixonado por tecnologia, arquitetura de código limpo e interfaces de alta performance.
+</p>
 
 ---
 
-## 🚀 Tecnologias e ferramentas que uso
+### 🚀 Tecnologias & Ferramentas
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass)
-![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws)
-
----
-
-## ✨ GitHub Stats
-
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieltsousa&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltsousa&layout=compact&theme=dracula)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="Vue.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="SASS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="AWS" />
+</p>
 
 ---
 
-## 📫 Onde me encontrar
+### 📈 GitHub Stats
 
-- [LinkedIn](https://www.linkedin.com/in/seu-linkedin) <!-- troque pelo seu LinkedIn real -->
-- Email: seuemail@email.com <!-- troque pelo seu email real -->
-- Portfólio: https://seuportfolio.com <!-- troque se tiver portfólio -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrieltsousa&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltsousa&layout=compact&theme=radical" height="180"/>
+</p>
 
 ---
 
-<!--
-**gabrieltsousa/gabrieltsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 Onde me encontrar
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:seuemail@email.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://seuportfolio.com" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center"><i>“Código limpo é como poesia: simples, elegante e direto.”</i></p>
