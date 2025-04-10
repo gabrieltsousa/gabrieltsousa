@@ -1,30 +1,26 @@
 <h1 align="center">Gabriel Teixeira</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Front-end+Developer;Vue.js+%7C+React+%7C+TypeScript+Lover;Clean+Code+%E2%9C%94%EF%B8%8F+Scalable+Architecture+%F0%9F%94%A1+UI%2FUX" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=gabrieltsousa" alt="Visitantes no perfil" />
 </p>
 
 <p align="center">
-  Desenvolvedor Front-end apaixonado por tecnologia, arquitetura de código limpo e interfaces de alta performance.
+  Desenvolvedor Front-end focado em interfaces modernas, arquitetura escalável e código limpo.
 </p>
 
 ---
 
 ### 🚀 Tecnologias & Ferramentas
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="Vue.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="SASS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astrojs/astrojs-original.svg" height="30" alt="AWS" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" /> <strong>JavaScript</strong><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" /> <strong>TypeScript</strong><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="25" /> <strong>Vue.js</strong><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" /> <strong>React</strong><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="25" /> <strong>Next.js</strong><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" /> <strong>Node.js</strong><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="25" /> <strong>SASS</strong><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="25" /> <strong>Astro</strong><br>
 </p>
 
 ---
