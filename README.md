@@ -57,7 +57,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=gabrieltsousa&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/gabrieltsousa">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltsousa&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltsousa&layout=compact&theme=radical&hide_border=true&cache_seconds=60" />
   </a>
 </p>
 
