@@ -53,11 +53,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/gabrieltex">
-    <img src="https://github-readme-stats.vercel.app/api?username=gabrieltex&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <a href="https://github.com/gabrieltsousa">
+    <img src="https://github-readme-stats.vercel.app/api?username=gabrieltsousa&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/gabrieltex">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltex&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <a href="https://github.com/gabrieltsousa">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltsousa&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
   </a>
 </p>
 
