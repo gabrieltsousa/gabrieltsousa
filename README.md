@@ -52,12 +52,12 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p>
   <a href="https://github.com/gabrieltsousa">
     <img src="https://github-readme-stats.vercel.app/api?username=gabrieltsousa&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/gabrieltsousa">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltsousa&layout=compact&theme=radical&hide_border=true&cache_seconds=60" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltsousa&layout=compact&theme=radical&hide_border=true&card_width=500" alt="Top Langs" />
   </a>
 </p>
 
@@ -65,5 +65,5 @@
 
 ### 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/gabrieltex/)
-- [GitHub](https://github.com/gabrieltex)
+- [LinkedIn](https://www.linkedin.com/in/gabriel-teixeira-frontend/)
+- [GitHub](https://github.com/gabrieltsousa)
