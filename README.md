@@ -1,6 +1,6 @@
 ## 👋 Bem-vindo, é um prazer recebê-lo! Eu sou Gabriel Teixeira.
 
-### 👨‍💻 Sobre mim
+### 👨‍💻 Sobre
 
 - 💼 Desenvolvedor Front-End com 4 anos de experiência
 - 🚀 Trabalho com Vue.js, React, Next.js, Astro, Node.js, Tailwind, Bootstrap, SSR/SPA/SSG
