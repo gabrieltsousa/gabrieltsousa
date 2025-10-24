@@ -5,7 +5,6 @@
 - 💼 Desenvolvedor Front-End com 4 anos de experiência
 - 🚀 Trabalho com Vue.js, React, Next.js, Astro, Node.js, Tailwind, Bootstrap, SSR/SPA/SSG
 - 🎯 Já atuei em projetos white-label, com foco em identidade visual e prazo apertado
-- 🧩 Atualmente desenvolvendo o framework **Neon.js**, um full-stack voltado pra produtividade
 
 ---
 
@@ -45,7 +44,6 @@
 ### 📌 Projetos em destaque
 
 - 🎰 [SorteSorte.com.br](https://www.sortesorte.com.br) — Plataforma de apostas lotéricas com identidade visual e integração de APIs
-- ⚙️ Neon.js — Framework full-stack com SSR automático e banco de dados embutido
 - 💼 Portfólio (em desenvolvimento) com Next.js, Framer Motion e Tailwind
 
 ---
